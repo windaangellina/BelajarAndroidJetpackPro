@@ -1,0 +1,6 @@
+- kuning : #f2c875
+- merah : #e84756
+- merah tua : #bf2b3b
+- biru dongker : #2d334b
+- cream : #f5f1eb
+- coklat : #d57f3c

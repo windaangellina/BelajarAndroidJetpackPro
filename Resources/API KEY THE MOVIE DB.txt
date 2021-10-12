@@ -1,0 +1,13 @@
+0e0818b611e7dfb71928a75cd059f740
+
+
+BASE URL FOR POSTERS : 
+https://www.themoviedb.org/t/p/w600_and_h900_bestv2/<<image url>>
+
+
+EXAMPLE POSTER :
+https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg
+
+
+EXAMPLE BACKDROP :
+https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg

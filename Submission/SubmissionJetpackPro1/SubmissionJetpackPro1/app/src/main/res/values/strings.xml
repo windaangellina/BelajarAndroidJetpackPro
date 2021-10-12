@@ -1,0 +1,323 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Couch Potato</string>
+    <string name="movie_database_in_your_hand">Movie Database In Your Hand</string>
+    <string name="couch_potato">Couch Potato</string>
+    <string name="logo_couch_potato">logo couch potato</string>
+
+    <string-array name="show_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="show_category">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+
+    </string-array>
+
+    <string-array name="show_poster">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_godzillakong</item>
+        <item>@drawable/poster_greatest_showman</item>
+        <item>@drawable/poster_halfofit</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_mortalkombat</item>
+        <item>@drawable/poster_rayalastdragon</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_cloy</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_good_doctor</item>
+        <item>@drawable/poster_itaewon</item>
+        <item>@drawable/poster_lucifer</item>
+        <item>@drawable/poster_something</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the100</item>
+        <item>@drawable/poster_vincenzo</item>
+        <item>@drawable/poster_wom</item>
+    </string-array>
+
+    <string-array name="show_title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Godzilla vs. Kong</item>
+        <item>The Greatest Showman</item>
+        <item>The Half Of It</item>
+        <item>Avengers: Infinity War</item>
+        <item>Mortal Kombat</item>
+        <item>Raya and the Last Dragon</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Crash Landing on You</item>
+        <item>Game of Thrones</item>
+        <item>The Good Doctor</item>
+        <item>Itaewon Class</item>
+        <item>Lucifer</item>
+        <item>Something in The Rain</item>
+        <item>Supergirl</item>
+        <item>The Simpsons</item>
+        <item>The 100</item>
+        <item>Vincenzo</item>
+        <item>The World of The Married</item>
+    </string-array>
+
+    <string-array name="show_duration_hour">
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="show_duration_minute">
+        <item>16</item>
+        <item>23</item>
+        <item>15</item>
+        <item>14</item>
+        <item>53</item>
+        <item>45</item>
+        <item>44</item>
+        <item>29</item>
+        <item>50</item>
+        <item>47</item>
+        <item>57</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="show_release_date">
+        <item>10/05/2018</item>
+        <item>21/12/2018</item>
+        <item>27/10/2018</item>
+        <item>16/11/2018</item>
+        <item>24/03/2021</item>
+        <item>27/12/2017</item>
+        <item>05/01/2020</item>
+        <item>27/04/2018</item>
+        <item>14/04/2021</item>
+        <item>03/03/2021</item>
+        <item>14/12/2018</item>
+        <item>14/12/2019</item>
+        <item>17/04/2011</item>
+        <item>25/09/2017</item>
+        <item>31/01/2020</item>
+        <item>25/01/2016</item>
+        <item>30/03/2018</item>
+        <item>26/10/2015</item>
+        <item>17/12/1989</item>
+        <item>19/03/2004</item>
+        <item>20/02/2021</item>
+        <item>27/03/2020</item>
+    </string-array>
+
+    <string-array name="show_ratings">
+        <item>R</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>PG</item>
+        <item>PG-13</item>
+        <item>PG-13</item>
+        <item>R</item>
+        <item>R13+</item>
+        <item>PG</item>
+        <item>R</item>
+        <item>R</item>
+        <item>PG-14</item>
+        <item>R</item>
+        <item>R</item>
+        <item>R</item>
+        <item>TV-14</item>
+        <item>TV-PG</item>
+        <item>TV-14</item>
+        <item>R</item>
+        <item>R</item>
+    </string-array>
+
+    <string-array name="show_user_scores">
+        <item>75</item>
+        <item>69</item>
+        <item>80</item>
+        <item>69</item>
+        <item>83</item>
+        <item>80</item>
+        <item>72</item>
+        <item>83</item>
+        <item>73</item>
+        <item>83</item>
+        <item>84</item>
+        <item>86</item>
+        <item>84</item>
+        <item>86</item>
+        <item>84</item>
+        <item>85</item>
+        <item>81</item>
+        <item>72</item>
+        <item>78</item>
+        <item>81</item>
+        <item>87</item>
+        <item>75</item>
+    </string-array>
+
+    <string-array name="show_tagline">
+        <item>I just want to take another look at you.</item>
+        <item>Home is calling</item>
+        <item>Fearless lives forever</item>
+        <item>Fate of One. Future of All.</item>
+        <item>One will fall.</item>
+        <item>The impossible comes true.</item>
+        <item>A different kind of love story.</item>
+        <item>An entire universe. Once and for all.</item>
+        <item>Get over here.</item>
+        <item>A quest to save her world.</item>
+        <item>More than one wears the mask.</item>
+        <item>She crash landed into his world.</item>
+        <item>Winter is coming.</item>
+        <item>His mind is a mystery, his methods are a miracle.</item>
+        <item>I want to live a life in which you can\'t put a price on your convictions</item>
+        <item>It\'s good to be bad</item>
+        <item>Do you like me that much? Yes</item>
+        <item>A force againts fear.</item>
+        <item>On your marks, get set, d\'oh!</item>
+        <item>Survival isn\'t who you are. It\'s who you become.</item>
+        <item>Evil punished through evil</item>
+        <item>Everything around me was perfect.</item>
+    </string-array>
+
+    <string-array name="show_link_trailer">
+        <item>https://youtu.be/nSbzyEJ8X9E</item>
+        <item>https://youtu.be/2wcj6SrX4zw</item>
+        <item>https://youtu.be/mP0VHJYFOAU</item>
+        <item>https://youtu.be/vvFybpmyB9E</item>
+        <item>https://youtu.be/odM92ap8_c0</item>
+        <item>https://youtu.be/AXCTMGYUg9A</item>
+        <item>https://youtu.be/B-yhF7IScUE</item>
+        <item>https://youtu.be/QwievZ1Tx-8</item>
+        <item>https://youtu.be/QJHY4ggYCk4</item>
+        <item>https://youtu.be/1VIZ89FEjYI</item>
+        <item>https://youtu.be/g4Hbz2jLxvQ</item>
+        <item>https://youtu.be/eXMjTXL2Vks</item>
+        <item>https://youtu.be/bjqEWgDVPe0</item>
+        <item>https://youtu.be/fYlZDTru55g</item>
+        <item>https://youtu.be/NeaHNQJ1kCo</item>
+        <item>https://youtu.be/X4bF_quwNtw</item>
+        <item>https://youtu.be/srvL8tPKlo4</item>
+        <item>https://youtu.be/Mh8MYFadTmQ</item>
+        <item>https://youtu.be/DX1iplQQJTo</item>
+        <item>https://youtu.be/aDrsItJ_HU4</item>
+        <item tools:ignore="TypographyDashes">https://youtu.be/S12-4mXCNj4</item>
+        <item>https://youtu.be/EpYQkWIWeV4</item>
+    </string-array>
+
+    <string-array name="show_overview">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</item>
+        <item>In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.</item>
+        <item>The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum &amp; Bailey Circus.</item>
+        <item>Shy, straight-A student Ellie is hired by sweet but inarticulate jock Paul, who needs help wooing the most popular girl in school. But their new and unlikely friendship gets tricky when Ellie discovers she has feelings for the same girl.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung\'s best warrior, Sub-Zero, seeks out and trains with Earth\'s greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.</item>
+        <item>Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>A paragliding mishap drops a South Korean heiress in North Korea — and into the life of an army officer, who decides he will help her hide.</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night\'s Watch, is all that stands between the realms of men and icy horrors beyond.</item>
+        <item>A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn\'t have the ability to relate to people actually save their lives</item>
+        <item>In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.</item>
+        <item>Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he\'s away from the underworld, the greater the threat that the worst of humanity could escape.</item>
+        <item>Explore the relationship of two people as they go from being \"just acquaintances\" to \"a genuine couple\" — Yoon Jin Ah, a coffee shop supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won\'t last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.</item>
+        <item>Vincenzo Cassano is an Italian lawyer and Mafia consigliere who moves back to Korea due to a conflict within his organization. He ends up crossing paths with a sharp-tongued lawyer named Cha-young, and the two join forces in using villainous methods to take down villains who cannot be punished by the law.</item>
+        <item>A turbulent twister of lies, betrayals and revenge tears apart the seemingly picture-perfect marriage between a doctor and a filmmaker.</item>
+    </string-array>
+
+    <string name="title_activity_catalogue">Catalogue</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv_shows">TV Shows</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="icon_ratings">icon ratings</string>
+    <string name="icon_back">icon back</string>
+    <string name="ratings">Ratings</string>
+    <string name="scores">Scores</string>
+    <string name="duration">Duration</string>
+    <string name="icon_share">icon share</string>
+    <string name="icon_youtube">icon youtube</string>
+    <string name="release_date">Release date :</string>
+    <string name="overview">Overview :</string>
+    <string name="tagline">Tagline :</string>
+    <string name="poster">poster</string>
+</resources>

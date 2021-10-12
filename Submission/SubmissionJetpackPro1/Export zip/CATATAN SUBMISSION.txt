@@ -1,0 +1,21 @@
+Winda Angelina Utama / a1501720@bangkit.academy
+
+Unit testing : ShowsViewModelTest
+---------------------------------
+fun testGetListShowsLiveData() / mendapatkan isi LiveData :
+- memastikan listShowLiveData tidak null
+
+fun testSetListShowsLiveData() / mengganti isi LiveData :
+- memastikan bisa mengubah isi listShowLiveData 
+
+
+Instrumental testing : CatalogueFragmentTest
+---------------------------------
+fun loadShows() / memuat list shows pada fragment :
+- memastikan recyclerListShow dalam keadaan tampil
+- menggulir recyclerListShow ke posisi data terakhir
+
+fun loadShowsDetail() / memuat detail shows yang dipilih :
+- memastikan value dari data pada posisi ketiga tidak null
+- simulasi klik data pada posisi ketiga di recyclerListShow
+- memastikan semua data detail dalam keadaan tampil dan sesuai dengan yang diharapkan

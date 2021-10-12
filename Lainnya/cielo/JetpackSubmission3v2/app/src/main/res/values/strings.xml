@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackSubmission3v2</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+</resources>

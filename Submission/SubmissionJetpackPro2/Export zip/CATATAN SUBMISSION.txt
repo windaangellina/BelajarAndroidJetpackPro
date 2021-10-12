@@ -1,0 +1,38 @@
+Winda Angelina Utama / a1501720@bangkit.academy
+
+Unit Testing : ShowsViewModelTest
+---------------------------------
+- pengujian fungsi dari repository berjalan
+- memastikan proses mendapatkan data dari repository berhasil
+- melakukan pengecekkan data dari repository tidak null
+
+
+Unit testing : MovieDatabaseRepositoryTest
+---------------------------------
+- memanggil fungsi dari RemoteDataSource
+- menguji adanya perubahan data sesuai dengan yang diharapkan
+- memastikan data yang ada di LiveData sesuai dengan yang diharapkan
+
+
+Instrumental testing : CatalogueActivityTest
+---------------------------------
+fun loadMovies() / memuat list movies dari hasil search :
+- simulasi proses searching pada textview
+- memastikan recyclerListShow dalam keadaan tampil
+- scroll recyclerListShow ke posisi data terakhir
+
+fun loadDetailMovie() / memuat detail movie yang dipilih :
+- simulasi proses searching pada textview
+- simulasi klik data pada posisi pertama di recyclerListShow
+- memastikan semua data detail dalam keadaan tampil dan sesuai dengan yang diharapkan
+
+fun loadTvShows() / memuat list tv shows dari hasil search :
+- mensimulasikan proses searching pada textview
+- memastikan recyclerListShow dalam keadaan tampil
+- scroll recyclerListShow ke posisi data terakhir
+
+fun loadDetailTvShows() / memuat detail tv show yang dipilih :
+- simulasi proses searching pada textview
+- simulasi klik data pada posisi pertama di recyclerListShow
+- memastikan semua data detail dalam keadaan tampil dan sesuai dengan yang diharapkan
+
